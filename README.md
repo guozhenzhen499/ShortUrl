@@ -1,3 +1,4 @@
+[![put-shared build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/put-shared/job/light/job/golang.svg?label=put-shared)](https://doi-janky.infosiftr.net/job/put-shared/job/light/job/golang/)
 # ShortUrl
 go实现短链接
 ## 1.建表
